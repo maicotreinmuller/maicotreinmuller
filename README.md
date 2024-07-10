@@ -5,8 +5,6 @@
 ### 📈 Estatísticas do GitHub
 [![Maicotreinmuller's GitHub stats](https://github-readme-stats.vercel.app/api?username=maicotreinmuller&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maicotreinmuller&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 🔭 Atualmente estou trabalhando em: 
 - Desenvolvimento de uma aplicação de controle financeiro com Python e Flask
 - Criação de conteúdos sobre técnologia
