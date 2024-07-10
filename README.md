@@ -1,6 +1,6 @@
 ## Buenas!! Eu sou o Maico Müller 
 
-🎓 Cientista de dados | 💻 Desenvolvedor iniciante | 📊 Apaixonado tecnologia
+🎓 Cientista de dados | 💻 Desenvolvedor iniciante | 📊 Apaixonado por tecnologia
 
 ### 📈 Estatísticas do GitHub
 [![Maicotreinmuller's GitHub stats](https://github-readme-stats.vercel.app/api?username=maicotreinmuller&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
