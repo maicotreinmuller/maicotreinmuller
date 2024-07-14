@@ -10,6 +10,6 @@
 - Criação de conteúdos sobre técnologia
 
 ⚡ Curiosidade: 
-- Eu sou um desenhista, designer para social media e adoro praticar exercícios físicos
+- Gosto de desenhar, também trabalho como designer para social media e gosto praticar exercícios físicos;
 - [![Instagram](https://img.shields.io/badge/Instagram-%40desenhos__muller-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/desenhos_muller)
 
