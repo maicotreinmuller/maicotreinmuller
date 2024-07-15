@@ -7,7 +7,6 @@
 
 🔭 Atualmente estou trabalhando em: 
 - Desenvolvimento de uma aplicação de controle financeiro com Python e Flask
-- Criação de conteúdos sobre técnologia
 
 ⚡ Curiosidade: 
 - Gosto de desenhar, também trabalho como designer para social media e gosto praticar exercícios físicos;
