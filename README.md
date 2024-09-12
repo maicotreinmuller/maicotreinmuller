@@ -6,7 +6,7 @@
 [![Maicotreinmuller's GitHub stats](https://github-readme-stats.vercel.app/api?username=maicotreinmuller&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 🔭 Atualmente estou trabalhando em: 
-- Desenvolvimento de uma aplicação de controle financeiro com Python e Flask
+- Desenvolvimento de uma aplicações web
 
 ⚡ Curiosidade: 
 - Gosto de desenhar, também trabalho como designer para social media e gosto praticar exercícios físicos;
