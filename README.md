@@ -6,5 +6,8 @@
 [![Maicotreinmuller's GitHub stats](https://github-readme-stats.vercel.app/api?username=maicotreinmuller&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 🔭 Atualmente estou trabalhando em: 
-- Desenvolvimento aplicações web
+- Desenvolvimento de aplicações
+* Organizze PDF
+* Controle Financeiro
+* Lista de compras
 
